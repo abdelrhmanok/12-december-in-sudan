@@ -1,0 +1,92 @@
+body
+{
+	background-image:url("ba.jpg");	text-align:center;
+	width-left:80%;
+	text-align:center;
+	width:80%;
+	font-size:2em;
+	margin-left:10%;
+	background-image:url("blue.png");
+	
+}
+#home
+{
+	float:right;
+}
+img
+{
+	display:inline;
+	width:800px;
+}
+a
+{
+	border-bottom:2px black solid;
+	margin:5px;
+}
+a:hover
+{
+	font-size:120%;
+	
+}
+ul,li
+{
+	display:inline;
+}
+header
+{
+
+	float:top;
+	text-align:right;
+}
+
+.month1
+{
+	
+	display:inline;
+	float:right;
+}
+.month2
+{
+	color:
+	background-color:azure;
+	text-align:right;
+	
+}
+.month3
+{
+	color:
+	background-color:azure;
+	text-align:right;
+	
+}
+.month4
+{
+	color:
+	background-color:azure;
+	text-align:right;
+	
+}
+.month5
+{
+	color:
+	background-color:azure;
+	text-align:right;
+	
+}
+.month6
+{
+	color:
+	text-align:right;
+	background-image:url("blue.png");
+}
+.table
+{
+	background-image:url("blue.png");
+}
+tr,th,td
+{
+	border:5px black solid;
+	border-left:0px black solid;
+	border-top:0px black solid;
+	
+}
